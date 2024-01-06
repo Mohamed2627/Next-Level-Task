@@ -1,0 +1,27 @@
+.filter-container {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter-drop-container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.drop-menu-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 25%;
+    top: 80%;
+    padding: 6px;
+    height: max-content;
+    border-radius: 10px;
+    background-color: #FFF;
+}

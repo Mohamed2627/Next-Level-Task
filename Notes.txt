@@ -1,0 +1,7 @@
+* Just in Case 😍
+1 - Be sure to have Node js version more than 18 to be compatible with vite.
+2 - To run The Task : 
+ yarn
+ yarn dev
+3 - Please let me know if there is any problem or any notes regarding your appretiated review.
+---------------------------------------------

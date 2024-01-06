@@ -1,0 +1,23 @@
+.todo-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-title-container {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 0px;
+    height: 160px;
+    width: 100%;
+    background-color: white;
+    padding-top: 10px
+}
+
+.tasks-container {
+    margin-top: 160px;
+    padding-bottom: 20px;
+}
